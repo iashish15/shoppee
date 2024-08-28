@@ -7,7 +7,7 @@ const Footer = () => {
     <footer className="bg-gray-800 text-white py-8 px-4 md:px-16 lg:px-24">
       <div className="container mx-auto grid grid-cols-1 md:grid-cols-3 gap-8">
         <div>
-          <h3 className="text-xl font-semibold">Ⓢ𝐡𝖔𝖕𝖕𝔢ϵ </h3>
+          <h3 className="text-xl font-semibold">🎀𝓔𝓪𝓼𝔂 𝓖𝓲𝓯𝓽𝓲𝓷𝓰🎀</h3>
           <p className="mt-4">
             Your one step for all your needs. Shop with use and experience the
             best online shopping experiences.
@@ -72,7 +72,7 @@ const Footer = () => {
       </div>
       <div className="mt-8 border-t border-gray-700 pt-4">
         <div className="conainter mx-auto flex flex-col md:flex-row justify-between items-center">
-          <p>&copy; 2024 Ⓢ𝐡𝖔𝖕𝖕𝔢ϵ All rights reserved.</p>
+          <p>&copy; 2024 🎀𝓔𝓪𝓼𝔂 𝓖𝓲𝓯𝓽𝓲𝓷𝓰🎀 All rights reserved.</p>
           <div className="flex space-x-6 mt-4 md:mt-0">
             <a href="" className="hover:underline hover:text-red-600">
               Privacy Policy

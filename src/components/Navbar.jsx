@@ -33,7 +33,7 @@ const Navbar = () => {
     <nav className="bg-white shadow-md">
       <div className="container mx-auto px-4 md:px-16 lg:px-24 py-4 flex justify-between items-center">
         <div className="text-lg font-bold">
-          <Link to="/">Ⓢ𝐡𝖔𝖕𝖕𝔢ϵ </Link>
+          <Link to="/">🎀𝓔𝓪𝓼𝔂 𝓖𝓲𝓯𝓽𝓲𝓷𝓰🎀</Link>
         </div>
         <div className="relative flex-1 mx-4">
           <form onSubmit={handleSearch}>
